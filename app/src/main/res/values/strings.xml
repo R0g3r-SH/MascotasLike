@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Mascotas</string>
+    <string name="nombre_mascota">Blinky</string>
+    <string name="nombre_mascota_01">Blinky</string>
+    <string name="nombre_mascota_02">Perry</string>
+    <string name="nombre_mascota_03">Scooby</string>
+    <string name="nombre_mascota_04">Ayudante de Santa</string>
+    <string name="nombre_mascota_05">Silvestre</string>
+    <string name="nombre_mascota_06">Bola de nieve</string>
+    <string name="nombre_mascota_07">Snopy</string>
+    <string name="nombre_mascota_08">Odie</string>
+    <string name="menu_contacto">Contacto</string>
+    <string name="menu_acerca">Acerca de</string>
+    <string name="mascotas_favoritas">favoritas</string>
+    <string name="campo_nombre">Nombre Completo</string>
+    <string name="campo_email">Correo Electrónico</string>
+    <string name="campo_mensaje">Mensaje</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
